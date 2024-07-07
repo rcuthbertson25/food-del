@@ -1,4 +1,4 @@
-FULL STACK FOOD DELIVERY WEBSITE/APP  
+*FULL STACK FOOD DELIVERY WEBSITE/APP*  
 
 Stack: MongoDB, Express, React.js, Node.js, Stripe
 

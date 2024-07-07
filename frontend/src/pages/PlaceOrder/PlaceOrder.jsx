@@ -129,7 +129,7 @@ const PlaceOrder = () => {
                 checked={paymentMethod === 'stripe'} 
                 onChange={(e) => setPaymentMethod(e.target.value)} 
               />
-              Stripe ( Credit / Debit )
+              Stripe ( Credit / Debit Test )
             </label>
           </div>
           <button type='submit'>{paymentMethod === 'cod' ? 'Place Order' : 'Proceed to Payment'}</button>

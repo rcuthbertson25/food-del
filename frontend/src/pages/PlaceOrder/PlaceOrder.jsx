@@ -116,7 +116,7 @@ const PlaceOrder = () => {
             <label>
               <input 
                 type="radio" 
-                value="card" 
+                value="cod" 
                 checked={paymentMethod === 'cod'} 
                 onChange={(e) => setPaymentMethod(e.target.value)} 
               />
@@ -125,14 +125,14 @@ const PlaceOrder = () => {
             <label>
               <input 
                 type="radio" 
-                value="paypal" 
+                value="stripe" 
                 checked={paymentMethod === 'stripe'} 
                 onChange={(e) => setPaymentMethod(e.target.value)} 
               />
               Stripe ( Credit / Debit )
             </label>
           </div>
-          <button type='submit'>PROCEED TO PAYMENT</button>
+          <button type='submit'>{paymentMethod === 'cod' ? 'Place Order' : 'Proceed to Payment'}</button>
         </div>
       </div>
     </form>

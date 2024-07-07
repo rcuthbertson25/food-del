@@ -29,6 +29,7 @@ Application Link: [Tomato Food Delivery App](https://food-del-frontend-0ont.onre
 ## ADMIN:  
 
   - consists of three tabs (Add Item, List Item, Orders)
+  - includes functionality for admin to add new food items to database/menu, view all items currently on menu, and view all orders with the ability to update status
 
   ### ADD ITEM:  
   

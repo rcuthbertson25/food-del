@@ -2,7 +2,7 @@
 
 Stack: MongoDB, Express, React.js, Node.js, Stripe
 
-link to application: https://food-del-frontend-0ont.onrender.com/
+Application Link: [Tomato Food Delivery App] (https://food-del-frontend-0ont.onrender.com/)
 
 ## FRONTEND:  
 

@@ -1,6 +1,6 @@
 # FULL STACK FOOD DELIVERY WEBSITE/APP  
 
-![Home_Logo](../../assets/assets/food_7)
+![Home_Logo](frontend/src/assets/food_7)
 
 Stack: MongoDB, Express, React.js, Node.js, Stripe
 

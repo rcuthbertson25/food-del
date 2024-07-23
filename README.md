@@ -1,7 +1,5 @@
 # FULL STACK FOOD DELIVERY WEBSITE/APP  
 
-![Home_Logo](frontend/src/assets/food_7)
-
 Stack: MongoDB, Express, React.js, Node.js, Stripe
 
 Application Link: [Tomato Food Delivery App](https://food-del-frontend-0ont.onrender.com/)

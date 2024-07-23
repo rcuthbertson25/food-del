@@ -1,6 +1,6 @@
 # FULL STACK FOOD DELIVERY WEBSITE/APP  
 
-![Home_Logo]("C:\Users\ryanc\OneDrive - The Pennsylvania State University\Pictures\Screenshots\Screenshot 2024-07-10 221000.png")
+![Home_Logo](../../assets/assets/food_7)
 
 Stack: MongoDB, Express, React.js, Node.js, Stripe
 
